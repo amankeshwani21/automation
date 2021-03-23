@@ -1,0 +1,23 @@
+const data = [
+  { id: 1, name: "aman", age: 21, education: "B.tech" },
+  { id: 2, name: "aman", age: 21, education: "B.tech" },
+  { id: 3, name: "aman", age: 21, education: "B.tech" },
+  { id: 4, name: "aman", age: 21, education: "B.tech" },
+  { id: 5, name: "aman", age: 21, education: "B.tech" },
+  { id: 6, name: "aman", age: 21, education: "B.tech" },
+  { id: 7, name: "aman", age: 21, education: "B.tech" },
+  { id: 8, name: "aman", age: 21, education: "B.tech" },
+  { id: 9, name: "aman", age: 21, education: "B.tech" },
+  { id: 10, name: "aman", age: 21, education: "B.tech" },
+  { id: 11, name: "aman", age: 21, education: "B.tech" },
+  { id: 12, name: "aman", age: 21, education: "B.tech" },
+  { id: 13, name: "aman", age: 21, education: "B.tech" },
+  { id: 14, name: "aman", age: 21, education: "B.tech" },
+  { id: 15, name: "aman", age: 21, education: "B.tech" },
+  { id: 16, name: "aman", age: 21, education: "B.tech" },
+  { id: 17, name: "aman", age: 21, education: "B.tech" },
+  { id: 18, name: "aman", age: 21, education: "B.tech" },
+  { id: 19, name: "aman", age: 21, education: "B.tech" },
+  { id: 20, name: "aman", age: 21, education: "B.tech" },
+];
+export default data;
